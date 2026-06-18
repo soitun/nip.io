@@ -2,13 +2,17 @@
 
 ![Build Status](https://github.com/exentriquesolutions/nip.io/actions/workflows/ci.yaml/badge.svg)
 
-Dead simple wildcard DNS for any IP Address.
+Dead simple wildcard DNS for any IP address.
 
-[NIP.IO](http://nip.io) is powered by [PowerDNS](https://powerdns.com) with a simple,
+> [!NOTE]
+> The project maintainer Roopinder Singh (1981–2024) have passed away.
+> [sslip.io](https://github.com/cunnie/sslip.io) could be considered a spirtual successor.
+
+[NIP.IO](http://nip.io) was powered by [PowerDNS](https://powerdns.com) with a simple,
 custom [PipeBackend](https://doc.powerdns.com/authoritative/backends/pipe.html):
 [backend.py](nipio/backend.py)
 
-Head to [NIP.IO](http://nip.io) for more details.
+Head to [NIP.IO](https://nip.io/) for more details. (now hosted by sslip.io)
 
 NIP.IO is licensed under [Apache 2.0](LICENSE.txt), and is a free service run by
 [Exentrique Solutions](http://exentriquesolutions.com)
